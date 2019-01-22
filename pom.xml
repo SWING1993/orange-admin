@@ -79,6 +79,7 @@
 	</dependencies>
 
 	<build>
+        <finalName>orange-admin</finalName>
 		<plugins>
 			<plugin>
 				<groupId>org.springframework.boot</groupId>
